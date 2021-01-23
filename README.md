@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To see how WeatherLA works, follow [the link](http://AlexandrLagun.github.io/weatherLA/).
+
 ## Available Scripts
 
 In the project directory, you can run:
